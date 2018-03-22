@@ -6,7 +6,8 @@
 
 ~~~
 
-### 版本1 修正方法(yii2.0.14.zip)
+> ## 版本1 修正方法(yii2.0.14.zip)
+
 ~~~
 $ unzip yii2.0.14.zip #解压文件
 $ mv yii2-app-basic-2.0.14  yii2-app-basic #修改名字
@@ -22,12 +23,12 @@ https://stackoverflow.com/questions/27809909/installing-yii2-via-composer-and-it
 
 ####  ip地址访问 http://192.l68.0.169/yii2-app-basic/web/
 
-#### 报错解决方法
+## 报错解决方法
 
-1. `安装使用报错：cookieValidationKey `
+##### 1. `安装使用报错：cookieValidationKey `
 
-http://www.yiichina.com/tutorial/554
+     http://www.yiichina.com/tutorial/554
 
-2. `其他的如果 没有写的权限 或者创建的权限的话 把报错的文件 权限给为 777`
+##### 2. `其他的如果 没有写的权限 或者创建的权限的话 把报错的文件 权限给为 777`
 
 
