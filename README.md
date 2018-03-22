@@ -1,7 +1,4 @@
-# yii2
-yii2 相关代码
-
-#Notices:
+# Notices:
 ~~~
 1. yii2.0.14.zip 为原始官网文件
 
