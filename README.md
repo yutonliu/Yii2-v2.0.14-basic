@@ -21,7 +21,7 @@ https://stackoverflow.com/questions/27809909/installing-yii2-via-composer-and-it
 
 #### 安装完composer 会出现一个vendor文件  
 
-####  ip地址访问 http://192.l68.0.169/yii2-app-basic/web/
+####  ip地址访问 http://192.168.0.169/yii2-app-basic/web/
 
 ## 报错解决方法
 
